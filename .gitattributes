@@ -1,0 +1,15 @@
+# 원본 바이트 보존
+* -text
+
+*.md            text eol=lf
+.gitignore      text eol=lf
+.gitattributes  text eol=lf
+LICENSE         text eol=lf
+
+*.exe   binary
+*.dll   binary
+*.ex_   binary
+*.zip   binary
+*.png   binary
+*.jpg   binary
+*.ico   binary
